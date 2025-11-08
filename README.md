@@ -1,12 +1,11 @@
 # Hi, I'm Hossein 👋  
 
-A Front-End Developer passionate about crafting clean and user-friendly web experiences.  
-Currently focused on building production-ready React & Next.js applications.
+A Frontend Developer focused on building scalable, clean, and user-friendly web apps — currently seeking a Junior role.
 
 ---
 
 ### 🚀 Tech Stack
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Languages:** JavaScript (ES6+), HTML5, CSS3 , Typescript
 - **Frontend:** React.js, Next.js
 - **State Management:** Redux Toolkit, React Query
 - **Styling:** Tailwind CSS, Material UI, DaisyUI
@@ -24,12 +23,12 @@ Tech: React, Tailwind CSS
 
 #### 📦 Real-World App (In Progress)  
 A production project with real API & authentication  
-🔗 Private Repo (demo available soon)  
+🔗 Private Repo (coming soon)  
 Tech: React, Redux, Material UI, REST API
 
 #### 🍔 Food Recipes App  
 Practice project with pagination & infinite scroll  
-💻 Code: (Add GitHub link here)  
+💻 Code: https://github.com/hosseinawm/food-recipe-webapp  
 Tech: React Query, TailwindCSS
 
 ---
